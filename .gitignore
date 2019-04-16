@@ -49,7 +49,7 @@ TestResults/
 *.zip
 ######################
 # storages           #
-*.ide-wal
+*.vs/
 ######################
 ######################
 # Logs and databases #
