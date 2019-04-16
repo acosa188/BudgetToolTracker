@@ -49,7 +49,7 @@ TestResults/
 *.zip
 ######################
 # storages           #
-*.vs/
+*.vs
 ######################
 ######################
 # Logs and databases #
